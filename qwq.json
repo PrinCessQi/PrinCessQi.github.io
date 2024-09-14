@@ -84,7 +84,7 @@
 "sklCovidStayHome": "[1]搬到了单独机位",
 "sklCovidInfect": "[0]和[1]ip相近",
 "sklCovidPrevent": "但[1]关闭了ssh端口",
-"sklAttack": "[0]开始D人",
+"sklAttack": "[0]D了[1]",
 "sklCovidMutate": "[1]的代码遭到改动",
 "sklCovidHit": "[1]的[ip]被背了下来",
 "bossName_ikaruga": "数学王子",
